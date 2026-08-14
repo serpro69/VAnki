@@ -1,0 +1,17 @@
+{
+  "schema_version": "1",
+  "upstream_repo": "serpro69/claude-toolbox",
+  "template_version": "v0.19.0",
+  "synced_at": "2026-08-14T09:24:59Z",
+  "variables": {
+    "PROJECT_NAME": "vanki",
+    "LANGUAGES": "python,typescript",
+    "CC_MODEL": "default",
+    "CC_EFFORT_LEVEL": "high",
+    "CC_PERMISSION_MODE": "default",
+    "CC_STATUSLINE": "enhanced",
+    "CODEX_MODEL": "gpt-5.6-sol",
+    "CODEX_APPROVAL_POLICY": "on-request",
+    "SKIP_CAPY": "false"
+  }
+}

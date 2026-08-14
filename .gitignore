@@ -49,3 +49,7 @@ logs
 
 # python
 __pycache__/
+
+# Misc
+
+lingua-miner

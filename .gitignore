@@ -33,9 +33,6 @@ logs
 !kodex-plugin/.codex-plugin
 .capy/**
 
-!.capy
-!.capy/knowledge.db
-
 # Go build artifacts
 /vendor-profiles
 /generate-kodex

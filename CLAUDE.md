@@ -18,9 +18,10 @@ VAnki is free, ELv2 licensed, and entirely local. No account, no API keys (possi
 
 VAnki is inspired by [lingua-miner](./lingua-miner) but aims to bring many improvements and additional features on top of the original project.
 
-# Extra Instructions
+
 
 @.claude/CLAUDE.extra.md
+@.claude/toolbox/CLAUDE.md
 
 # capy — context-window routing
 
